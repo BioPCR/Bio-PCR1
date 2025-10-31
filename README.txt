@@ -9,7 +9,7 @@ Table A1. List of Supplemental Information
 -------------------------------------
 No.	Name	
 --------------------------------------------------------------------------------------------------------------------------
-1	Bio-PCR_Operation.mp4				Movie player			Practical demonstration of Bio-PCR thermocycler operation
+M1	Bio-PCR_Operation.mp4				Movie player			Practical demonstration of Bio-PCR thermocycler operation
 F1	Circuit digram.jpg					Fritzing (ver. 1.0.5)	Circuit diagram
 F2	PCB grabber.zip						Fritzing (ver. 1.0.5)	Grabber files for PCB manufacture
 F3	Circuit_diagram_Arduino code.fzz	Fritzing (ver. 1.0.5)	Circuit diagram and Arduino core
